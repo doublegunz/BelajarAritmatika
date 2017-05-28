@@ -1,0 +1,19 @@
+{
+    "name": "doublegunz/belajar-aritmatika",
+    "description": "Operasi aritmatika",
+    "type": "library",
+    "license": "creative commons",
+    "authors": [
+        {
+            "name": "doublegunz",
+            "email": "gungunpriatna02@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Aritmatika": "src/"
+        }
+    }
+}
