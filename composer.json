@@ -2,7 +2,7 @@
     "name": "doublegunz/belajar-aritmatika",
     "description": "Operasi aritmatika",
     "type": "library",
-    "license": "creative commons",
+    "license": "MIT",
     "authors": [
         {
             "name": "doublegunz",
