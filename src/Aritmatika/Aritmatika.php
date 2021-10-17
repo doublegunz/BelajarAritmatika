@@ -4,6 +4,11 @@ declare(strict_types=1);
 
 namespace Aritmatika;
 
+/**
+ * @author Gun Gun Priatna <gungunpriatna02@gmail.com>
+ * @license MIT
+ * @version 1.0.1
+ */
 class Aritmatika
 {
 
